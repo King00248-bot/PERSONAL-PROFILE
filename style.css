@@ -1,14 +1,14 @@
 /* Global Styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f9fa;
+    background-color:#1e1e1e ;
     margin: 0;
     padding: 0;
 }
 
 /* Headings */
 h1, h2 {
-    color: #007bff;
+    color:#e6e6e6 ;
     font-weight: bold;
 }
 
@@ -33,7 +33,7 @@ h1, h2 {
 
 /* Hero Section */
 #hero {
-    background-color: #e9f2ff;
+    background-color: #333333;
     padding: 60px 20px;
     border-bottom: 3px solid #007bff;
 }
@@ -50,7 +50,7 @@ h1, h2 {
 section {
     margin-top: 40px;
     padding: 20px;
-    background: white;
+    background: #2a2a2a;
     border-radius: 8px;
     box-shadow: 0px 0px 8px rgba(0,0,0,0.1);
 }
@@ -75,3 +75,4 @@ ul li {
     font-size: 1.1rem;
     margin: 5px 0;
 }
+
