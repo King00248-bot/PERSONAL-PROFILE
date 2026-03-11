@@ -1,0 +1,77 @@
+/* Global Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+/* Headings */
+h1, h2 {
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* Navigation Bar */
+.navbar {
+    padding: 15px;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #ffffff !important;
+    margin-left: 10px;
+}
+
+.nav-link:hover {
+    color: #ffc107 !important;
+}
+
+/* Hero Section */
+#hero {
+    background-color: #e9f2ff;
+    padding: 60px 20px;
+    border-bottom: 3px solid #007bff;
+}
+
+#hero img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: 3px solid #007bff;
+    margin-bottom: 15px;
+}
+
+/* Section Formatting */
+section {
+    margin-top: 40px;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.1);
+}
+
+/* Skills List */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #f1f1f1;
+    padding: 10px;
+    margin: 6px 0;
+    border-left: 5px solid #007bff;
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+/* Contact Section */
+#contact p {
+    font-size: 1.1rem;
+    margin: 5px 0;
+}
